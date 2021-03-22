@@ -6,3 +6,6 @@
 코드 
 
 사이트: https://www.livechat.com/typing-speed-test/#/
+
+사용 영상: https://youtu.be/Lv-OvbTZhEU
+(사실 실용성은 없을듯)
