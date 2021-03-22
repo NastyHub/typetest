@@ -12,7 +12,7 @@ def result():
     return wpm
 
 def something():
-    a = input("1 : 타자연습 시작\n2 : 빠른모드\n3 : 종료입력: ")
+    a = input("1 : 타자연습 시작\n2 : 빠른모드\n3 : 종료\n입력: ")
     while True:
         if a == "1":
 
